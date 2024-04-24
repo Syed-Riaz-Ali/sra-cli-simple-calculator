@@ -1,0 +1,32 @@
+{
+  "name": "sra-cli-simple-calculator",
+  "version": "1.0.0",
+  "description": "Simple Calulator",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Riaz-Ali/sra-cli-simple-calculator.git"
+  },
+  "keywords": [
+    "Simple",
+    "Calculator"
+  ],
+  "author": "Syed Riaz Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed-Riaz-Ali/sra-cli-simple-calculator/issues"
+  },
+  "homepage": "https://github.com/Syed-Riaz-Ali/sra-cli-simple-calculator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "sra-cli-simple-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
